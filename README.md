@@ -8,15 +8,24 @@
 
 ---
 
+<table border="0">
+<tr>
+<td valign="top" width="50%">
 <h2>👨🏻‍💻 Sobre Mim</h2>
 <p>
-Estou no 1º ano de <b>Sistemas de Informação</b> na PUC-Campinas e trabalho na área administrativa de uma empresa familiar, onde uso Excel no controle e na organização de informações. Gosto de juntar tecnologia e negócios: automatizar tarefas, organizar dados e criar soluções digitais simples e úteis.
+Estou no 1º ano de <b>Sistemas de Informação</b> na PUC-Campinas. Gosto de juntar tecnologia e negócios: automatizar tarefas, organizar dados e criar soluções digitais simples e úteis.
 </p>
 <ul>
 <li>🌱 Estudando: <b>Python, MySQL, Power BI e automação com n8n</b></li>
 <li>🎓 Certificação: <b>Prompting Responsável: Maximizar a IA no seu negócio (Santander Open Academy)</b></li>
 <li>💼 Interesses: <b>análise de sistemas, análise de negócios, automação de processos e dados</b></li>
 </ul>
+</td>
+<td align="center" width="50%">
+<img src="./terminal.svg" alt="Terminal animado" width="400">
+</td>
+</tr>
+</table>
 
 <div align="center">
 <h2>🚀 Stack Tecnológicos</h2>
